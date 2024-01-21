@@ -1,4 +1,4 @@
-# E-Wallet-Springboot-Microservices-
+# E-Wallet-Springboot-Microservices
 
 A comprehensive e-wallet system that enables users to effortlessly transfer amounts, view their balance, recent transactions, and manage account settings. Developed with a microservices architecture and integrated with modern technologies ensuring responsive and secure user interactions.
 
